@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T15:49:16.705Z" agent="5.0 (Windows)" version="20.8.13" etag="lrHT4o_amEUyTirp08pn" type="github"><diagram name="ページ1" id="-7ceIXDPW2_akQOP-5Nq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-28T16:23:41.898Z" agent="5.0 (Windows)" etag="7-q4uviajYFddCt8AYQ-" version="20.8.13" type="github">
+  <diagram name="ページ1" id="-7ceIXDPW2_akQOP-5Nq">
+    <mxGraphModel dx="1195" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iln5lI4_UesfJCWmbQeq-12" value="ベースURL&lt;br&gt;&lt;div&gt;/api&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-14" target="iln5lI4_UesfJCWmbQeq-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-14" target="iln5lI4_UesfJCWmbQeq-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-14" value="&lt;div&gt;開発中&lt;br&gt;&lt;/div&gt;&lt;div&gt;/v0&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-17" value="リリース(未定)&lt;br&gt;&lt;div&gt;/v1&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="380" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-12" target="iln5lI4_UesfJCWmbQeq-17">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint x="285" y="180" as="targetPoint" />
+            <mxPoint x="290" y="130" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-13" value="バージョン" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-12" target="iln5lI4_UesfJCWmbQeq-14">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint x="300" y="130" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-31" target="iln5lI4_UesfJCWmbQeq-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-31" value="&lt;div&gt;ws接続URLを返す&lt;br&gt;&lt;/div&gt;&lt;div&gt;/gateway&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;" edge="1" parent="1" source="iln5lI4_UesfJCWmbQeq-39" target="iln5lI4_UesfJCWmbQeq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-39" value="&lt;div&gt;/guilds/&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-42" value="ギルド作成&lt;br&gt;&lt;div&gt;/create&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iln5lI4_UesfJCWmbQeq-47" value="&lt;div&gt;ws接続を返す&lt;br&gt;&lt;/div&gt;&lt;div&gt;/ws&lt;/div&gt;" style="html=1;fontFamily=Garamond;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
